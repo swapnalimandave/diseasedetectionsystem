@@ -1,7 +1,9 @@
-
 Flask
 gunicorn
 numpy
 pandas
 scikit-learn
 reportlab
+matplotlib
+seaborn
+joblib
